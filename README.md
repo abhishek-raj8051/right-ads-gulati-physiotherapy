@@ -9,7 +9,9 @@ A modern, fully responsive website built for **Gulati Physiotherapy Clinic**, Ko
 
 ## 📌 About This Project
 
-This project was developed as part of a client engagement handled through **[Your Agency / Company Name]**, where I contributed as a **Web Development Intern**. The brief was to design and build a complete, production-ready website for a physiotherapy and chiropractic clinic — covering everything from the homepage and treatment listings to an online appointment booking flow.
+This project was developed as part of a client engagement handled through **Right Ads**, a digital marketing agency, where I currently work as a **Cybersecurity Intern**. Alongside my core cybersecurity responsibilities, I was given the opportunity to take on this web development assignment — designing and building a complete, production-ready website for a physiotherapy and chiropractic clinic client, covering everything from the homepage and treatment listings to an online appointment booking flow.
+
+Taking on a task outside my primary domain was a deliberate stretch goal — it let me apply secure coding practices (input validation, safe form handling, and clean dependency management) while building a real, client-facing product from scratch.
 
 My responsibilities on this project included:
 
@@ -17,6 +19,7 @@ My responsibilities on this project included:
 - Implementing a clean, accessible, mobile-first UI
 - Building reusable components (Navbar, Footer, Cards, Forms) for consistency across pages
 - Setting up client-side routing for dynamic treatment and technology detail pages
+- Applying basic security best practices during development (form input validation, no exposed secrets/API keys, sanitized user inputs)
 - Optimizing for performance, responsiveness, and SEO-friendly structure
 
 ---
@@ -113,14 +116,14 @@ The app will be available at `http://localhost:5173` by default.
 
 ## 📄 License
 
-This project was built for client use as part of an internship engagement. All content, branding, and imagery belong to **Gulati Physiotherapy Clinic**. Code structure and implementation are shared here for portfolio/demonstration purposes.
+This project was built for client use as part of an internship engagement at **Right Ads**. All content, branding, and imagery belong to **Gulati Physiotherapy Clinic**. Code structure and implementation are shared here for portfolio/demonstration purposes.
 
 ---
 
 ## 🙋 Author
 
 **[Your Name]**
-Web Development Intern
-[Your Agency/Company Name]
+Cybersecurity Intern @ Right Ads
+_(Web development undertaken as an additional client project during internship)_
 
 [LinkedIn] · [Portfolio] · [Email]
